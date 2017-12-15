@@ -1,0 +1,103 @@
+.highlight {
+    background-color: #ddd;
+}
+
+button.btn {
+  border-radius: 3px;
+  border-style: solid;
+  border-width: 1px;
+  font-weight: normal;
+  line-height: 1.15;
+  text-align: center;
+  vertical-align: middle;
+
+}
+
+.btn   {
+  
+  background:rgb(252, 251, 249);
+   color:rgb(43, 43, 182); 
+   width: 175px;
+   height: 50px;
+   font-style: solid 5px;
+   font-size: 1.2em;
+   vertical-align: middle;
+  
+  
+   margin: 10px;
+
+}
+
+.btn--primary   {
+  
+  background:rgb(65, 65, 180);
+   color:rgb(244, 244, 250); 
+   width: 175px;
+   height: 50px;
+   font-style: solid;
+   font-size: 1.2em;
+   vertical-align: middle;
+   border-color: rgb(134, 132, 132);
+   
+  
+   margin: 10px;
+
+}
+
+.btn--secondary {
+  
+  background:rgb(244, 244, 247);
+   color:rgb(119, 119, 128); 
+   width: 175px;
+   height: 50px;
+   font-style: solid;
+   font-size: 1.2em;
+   vertical-align: middle;
+   border-color: rgb(175, 173, 173);
+   border-bottom-color: 9px solid  rgb(51, 49, 49);
+     margin: 10px;
+
+}
+.btn--large {
+  
+  background:rgb(255, 255, 255);
+   color:rgb(53, 53, 197); 
+   width: 260px;
+   height: 60px;
+   font-style: solid;
+   font-size: 1.3em;
+   vertical-align: middle;
+   border-bottom-color: 4px solid  rgb(51, 49, 49);
+     margin: 10px;
+
+} 
+
+.btn--extra-large{
+  
+  background:rgb(255, 255, 255);
+   color:rgb(53, 53, 197); 
+   width: 350px;
+   height: 70px;
+   font-style: solid;
+   font-size: 1.5em;
+   vertical-align: middle;
+   border-bottom-color: 4px solid  rgb(51, 49, 49);
+     margin: 10px;
+
+}
+
+#nav  {
+  font-size: 1.5em;
+    list-style: none;
+    padding: .36em 0.9375em; 
+    margin: 2px 
+
+}
+
+  nav ul li {
+    font-size: 1.5em;
+		display: inline-block;
+		list-style: none;
+		padding: .36em 0.9375em;
+
+}
